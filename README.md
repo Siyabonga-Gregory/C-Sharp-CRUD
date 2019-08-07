@@ -1,2 +1,2 @@
-# C-CRUD
+# C-Sharp-CRUD
 Simply windows form crud
